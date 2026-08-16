@@ -32,7 +32,7 @@
 
 		qcom,initial-pwrlevel = <11>;
 
-		qcom,no-nap;
+		qcom,disable-busy-time-burst;
 
 		qcom,min-access-length = <32>;
 
