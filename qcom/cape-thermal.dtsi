@@ -375,7 +375,7 @@
 
 	cpu-1-0 {
 		polling-delay-passive = <100>;
-		polling-delay = <1000>;
+		polling-delay = <0>;
 		thermal-sensors = <&tsens0 5>;
 		trips {
 			thermal-engine-config {
@@ -419,7 +419,7 @@
 
 	cpu-1-1 {
 		polling-delay-passive = <100>;
-		polling-delay = <1000>;
+		polling-delay = <0>;
 		thermal-sensors = <&tsens0 6>;
 		trips {
 			thermal-engine-config {
@@ -463,7 +463,7 @@
 
 	cpu-1-2 {
 		polling-delay-passive = <100>;
-		polling-delay = <1000>;
+		polling-delay = <0>;
 		thermal-sensors = <&tsens0 7>;
 		trips {
 			thermal-engine-config {
@@ -512,7 +512,7 @@
 
 	cpu-1-3 {
 		polling-delay-passive = <100>;
-		polling-delay = <1000>;
+		polling-delay = <0>;
 		thermal-sensors = <&tsens0 8>;
 		trips {
 			thermal-engine-config {
@@ -561,7 +561,7 @@
 
 	cpu-1-4 {
 		polling-delay-passive = <100>;
-		polling-delay = <1000>;
+		polling-delay = <0>;
 		thermal-sensors = <&tsens0 9>;
 		trips {
 			thermal-engine-config {
@@ -610,7 +610,7 @@
 
 	cpu-1-5 {
 		polling-delay-passive = <100>;
-		polling-delay = <1000>;
+		polling-delay = <0>;
 		thermal-sensors = <&tsens0 10>;
 		trips {
 			thermal-engine-config {
@@ -659,7 +659,7 @@
 
 	cpu-1-6 {
 		polling-delay-passive = <100>;
-		polling-delay = <1000>;
+		polling-delay = <0>;
 		thermal-sensors = <&tsens0 11>;
 		trips {
 			thermal-engine-config {
@@ -708,7 +708,7 @@
 
 	cpu-1-7 {
 		polling-delay-passive = <100>;
-		polling-delay = <1000>;
+		polling-delay = <0>;
 		thermal-sensors = <&tsens0 12>;
 		trips {
 			thermal-engine-config {
@@ -757,7 +757,7 @@
 
 	cpu-1-8 {
 		polling-delay-passive = <100>;
-		polling-delay = <1000>;
+		polling-delay = <0>;
 		thermal-sensors = <&tsens0 13>;
 		trips {
 			thermal-engine-config {
@@ -901,7 +901,7 @@
 
 	cpu-0-0 {
 		polling-delay-passive = <100>;
-		polling-delay = <1000>;
+		polling-delay = <0>;
 		thermal-sensors = <&tsens1 1>;
 		trips {
 			thermal-engine-config {
@@ -950,7 +950,7 @@
 
 	cpu-0-1 {
 		polling-delay-passive = <100>;
-		polling-delay = <1000>;
+		polling-delay = <0>;
 		thermal-sensors = <&tsens1 2>;
 		trips {
 			thermal-engine-config {
@@ -999,7 +999,7 @@
 
 	cpu-0-2 {
 		polling-delay-passive = <100>;
-		polling-delay = <1000>;
+		polling-delay = <0>;
 		thermal-sensors = <&tsens1 3>;
 		trips {
 			thermal-engine-config {
@@ -1048,7 +1048,7 @@
 
 	cpu-0-3 {
 		polling-delay-passive = <100>;
-		polling-delay = <1000>;
+		polling-delay = <0>;
 		thermal-sensors = <&tsens1 4>;
 		trips {
 			thermal-engine-config {
